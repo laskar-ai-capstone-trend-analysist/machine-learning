@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2268bd39b02141d6beaabafa19979951/artifacts
+deleted_time: 1748743330426
+end_time: 1748705213174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2268bd39b02141d6beaabafa19979951
+run_name: sedate-mouse-717
+run_uuid: 2268bd39b02141d6beaabafa19979951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705205563
+status: 3
+tags: []
+user_id: ajusd

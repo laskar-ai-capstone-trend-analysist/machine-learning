@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/179387764467183772/b3a7b0d0d4e840059783a3d1fbd74afa/artifacts
+deleted_time: 1748754080655
+end_time: 1748753938382
+entry_point_name: ''
+experiment_id: '179387764467183772'
+lifecycle_stage: deleted
+run_id: b3a7b0d0d4e840059783a3d1fbd74afa
+run_name: fortunate-ant-114
+run_uuid: b3a7b0d0d4e840059783a3d1fbd74afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748753887315
+status: 3
+tags: []
+user_id: ajusd

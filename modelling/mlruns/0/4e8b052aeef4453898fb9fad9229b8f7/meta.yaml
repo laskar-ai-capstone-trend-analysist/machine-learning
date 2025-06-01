@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4e8b052aeef4453898fb9fad9229b8f7/artifacts
+deleted_time: 1748680352274
+end_time: 1748677645782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4e8b052aeef4453898fb9fad9229b8f7
+run_name: kindly-mouse-460
+run_uuid: 4e8b052aeef4453898fb9fad9229b8f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748677615589
+status: 3
+tags: []
+user_id: ajusd

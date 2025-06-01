@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f735a6c3ac6a4bd8a9c85afc01620de7/artifacts
+deleted_time: 1748665366667
+end_time: 1748661476370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f735a6c3ac6a4bd8a9c85afc01620de7
+run_name: secretive-crane-771
+run_uuid: f735a6c3ac6a4bd8a9c85afc01620de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748661426453
+status: 3
+tags: []
+user_id: ajusd

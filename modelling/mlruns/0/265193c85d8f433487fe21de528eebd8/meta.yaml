@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/265193c85d8f433487fe21de528eebd8/artifacts
+deleted_time: 1748743330439
+end_time: 1748703576563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 265193c85d8f433487fe21de528eebd8
+run_name: persistent-grub-797
+run_uuid: 265193c85d8f433487fe21de528eebd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748703488061
+status: 3
+tags: []
+user_id: ajusd

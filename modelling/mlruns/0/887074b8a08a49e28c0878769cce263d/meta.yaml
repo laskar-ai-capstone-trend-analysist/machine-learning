@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/887074b8a08a49e28c0878769cce263d/artifacts
+end_time: 1748667837289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 887074b8a08a49e28c0878769cce263d
+run_name: salty-vole-534
+run_uuid: 887074b8a08a49e28c0878769cce263d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748667799380
+status: 3
+tags: []
+user_id: ajusd

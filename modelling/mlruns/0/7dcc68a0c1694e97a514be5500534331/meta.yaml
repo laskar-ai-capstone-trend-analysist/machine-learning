@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7dcc68a0c1694e97a514be5500534331/artifacts
+deleted_time: 1748667659869
+end_time: 1748665287974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7dcc68a0c1694e97a514be5500534331
+run_name: merciful-hare-214
+run_uuid: 7dcc68a0c1694e97a514be5500534331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748665245336
+status: 3
+tags: []
+user_id: ajusd

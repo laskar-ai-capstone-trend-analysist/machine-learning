@@ -1,0 +1,19 @@
+dataset:
+  version: 2
+
+tokenizer:
+  maxlen: 100
+  vocab_size: 6000
+  
+model:
+  num_transformer_blocks: 1
+  embed_dim: 64
+  num_heads: 2
+  ff_dim: 64
+  dense_units: 64
+  num_classes: 3
+
+dropout:
+  dropout1_rate: 0.3
+  dropout2_rate: 0.3
+  dropout3_rate: 0.5

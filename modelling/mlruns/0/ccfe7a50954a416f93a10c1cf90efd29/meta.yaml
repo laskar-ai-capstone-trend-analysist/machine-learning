@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ccfe7a50954a416f93a10c1cf90efd29/artifacts
+deleted_time: 1748665366666
+end_time: 1748663296651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ccfe7a50954a416f93a10c1cf90efd29
+run_name: trusting-midge-669
+run_uuid: ccfe7a50954a416f93a10c1cf90efd29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748663248596
+status: 3
+tags: []
+user_id: ajusd

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f124fa11ba5d4ac3800d5e3a7118731c/artifacts
+deleted_time: 1748743330425
+end_time: 1748705340033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f124fa11ba5d4ac3800d5e3a7118731c
+run_name: painted-perch-20
+run_uuid: f124fa11ba5d4ac3800d5e3a7118731c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705327987
+status: 3
+tags: []
+user_id: ajusd

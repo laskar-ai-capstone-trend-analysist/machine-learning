@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/914fe93dabe642adb6d9d6638ec4e5ec/artifacts
+deleted_time: 1748703259551
+end_time: 1748681428765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 914fe93dabe642adb6d9d6638ec4e5ec
+run_name: serious-auk-802
+run_uuid: 914fe93dabe642adb6d9d6638ec4e5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748681393638
+status: 3
+tags: []
+user_id: ajusd

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b6f41784370d49f6acbd7c363eeca56a/artifacts
+deleted_time: 1748743330432
+end_time: 1748704453589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b6f41784370d49f6acbd7c363eeca56a
+run_name: enchanting-duck-954
+run_uuid: b6f41784370d49f6acbd7c363eeca56a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748704411633
+status: 3
+tags: []
+user_id: ajusd

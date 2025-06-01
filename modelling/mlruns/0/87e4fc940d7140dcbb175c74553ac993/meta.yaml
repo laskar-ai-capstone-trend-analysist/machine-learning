@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/87e4fc940d7140dcbb175c74553ac993/artifacts
+deleted_time: 1748703259551
+end_time: 1748680557801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 87e4fc940d7140dcbb175c74553ac993
+run_name: salty-ox-763
+run_uuid: 87e4fc940d7140dcbb175c74553ac993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748680513040
+status: 3
+tags: []
+user_id: ajusd

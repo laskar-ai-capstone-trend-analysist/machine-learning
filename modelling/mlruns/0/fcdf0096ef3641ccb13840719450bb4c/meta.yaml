@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fcdf0096ef3641ccb13840719450bb4c/artifacts
+deleted_time: 1748743330434
+end_time: 1748704303859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fcdf0096ef3641ccb13840719450bb4c
+run_name: bittersweet-fox-42
+run_uuid: fcdf0096ef3641ccb13840719450bb4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748704269529
+status: 3
+tags: []
+user_id: ajusd

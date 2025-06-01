@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/28802eefc1154ec79c9f5fbf3ad38f02/artifacts
+deleted_time: 1748665366667
+end_time: 1748661301501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 28802eefc1154ec79c9f5fbf3ad38f02
+run_name: persistent-doe-40
+run_uuid: 28802eefc1154ec79c9f5fbf3ad38f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748661258867
+status: 3
+tags: []
+user_id: ajusd

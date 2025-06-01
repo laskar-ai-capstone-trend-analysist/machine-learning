@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/adabd6e8ada3407bab978d0273209b4c/artifacts
+deleted_time: 1748667659869
+end_time: 1748665366763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: adabd6e8ada3407bab978d0273209b4c
+run_name: fun-whale-731
+run_uuid: adabd6e8ada3407bab978d0273209b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748665314153
+status: 3
+tags: []
+user_id: ajusd

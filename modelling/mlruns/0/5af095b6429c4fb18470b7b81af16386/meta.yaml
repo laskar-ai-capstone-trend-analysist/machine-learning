@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5af095b6429c4fb18470b7b81af16386/artifacts
+deleted_time: 1748743330425
+end_time: 1748708475360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5af095b6429c4fb18470b7b81af16386
+run_name: nosy-frog-271
+run_uuid: 5af095b6429c4fb18470b7b81af16386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748708438611
+status: 4
+tags: []
+user_id: ajusd

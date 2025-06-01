@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1e1422a24f984f42a5511974418e45dd/artifacts
+deleted_time: 1748664741476
+end_time: 1748664604713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1e1422a24f984f42a5511974418e45dd
+run_name: zealous-doe-911
+run_uuid: 1e1422a24f984f42a5511974418e45dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748664602482
+status: 4
+tags: []
+user_id: ajusd

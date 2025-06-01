@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2c5dc64073a44a3a8ac931446fc3576d/artifacts
+deleted_time: 1748743330439
+end_time: 1748703315188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c5dc64073a44a3a8ac931446fc3576d
+run_name: intrigued-hound-655
+run_uuid: 2c5dc64073a44a3a8ac931446fc3576d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748703269819
+status: 3
+tags: []
+user_id: ajusd

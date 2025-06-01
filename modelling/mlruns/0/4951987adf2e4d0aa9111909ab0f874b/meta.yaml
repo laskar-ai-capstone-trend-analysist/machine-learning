@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4951987adf2e4d0aa9111909ab0f874b/artifacts
+deleted_time: 1748703259551
+end_time: 1748681076527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4951987adf2e4d0aa9111909ab0f874b
+run_name: mercurial-cub-737
+run_uuid: 4951987adf2e4d0aa9111909ab0f874b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748681032022
+status: 3
+tags: []
+user_id: ajusd

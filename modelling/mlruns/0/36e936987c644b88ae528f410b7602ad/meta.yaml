@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/36e936987c644b88ae528f410b7602ad/artifacts
+deleted_time: 1748743330432
+end_time: 1748704453606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 36e936987c644b88ae528f410b7602ad
+run_name: capable-worm-534
+run_uuid: 36e936987c644b88ae528f410b7602ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748704411558
+status: 3
+tags: []
+user_id: ajusd

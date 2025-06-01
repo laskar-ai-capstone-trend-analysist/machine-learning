@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748675844876
+current_stage: None
+description: ''
+last_updated_timestamp: 1748675844876
+name: nyoba
+run_id: c0a1f80e97d8499c98d1fc91305712bf
+run_link: ''
+source: mlflow-artifacts:/0/c0a1f80e97d8499c98d1fc91305712bf/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/c0a1f80e97d8499c98d1fc91305712bf/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/411cea173340483e81ce1ddadd50bd69/artifacts
+deleted_time: 1748743330434
+end_time: 1748704304405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 411cea173340483e81ce1ddadd50bd69
+run_name: shivering-shad-798
+run_uuid: 411cea173340483e81ce1ddadd50bd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748704269398
+status: 3
+tags: []
+user_id: ajusd

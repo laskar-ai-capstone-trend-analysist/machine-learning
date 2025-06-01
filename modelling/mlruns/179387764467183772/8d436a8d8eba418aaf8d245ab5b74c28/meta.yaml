@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179387764467183772/8d436a8d8eba418aaf8d245ab5b74c28/artifacts
+end_time: 1748752553696
+entry_point_name: ''
+experiment_id: '179387764467183772'
+lifecycle_stage: active
+run_id: 8d436a8d8eba418aaf8d245ab5b74c28
+run_name: abundant-cat-53
+run_uuid: 8d436a8d8eba418aaf8d245ab5b74c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748752506217
+status: 3
+tags: []
+user_id: ajusd

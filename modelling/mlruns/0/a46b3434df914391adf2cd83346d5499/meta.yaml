@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a46b3434df914391adf2cd83346d5499/artifacts
+deleted_time: 1748703839751
+end_time: 1748703570560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a46b3434df914391adf2cd83346d5499
+run_name: marvelous-bird-640
+run_uuid: a46b3434df914391adf2cd83346d5499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748703525971
+status: 3
+tags: []
+user_id: ajusd

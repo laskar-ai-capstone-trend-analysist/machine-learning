@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/179387764467183772/0bac97bcc878472e914cb58c2c5c396f/artifacts
+deleted_time: 1748754080655
+end_time: 1748753938402
+entry_point_name: ''
+experiment_id: '179387764467183772'
+lifecycle_stage: deleted
+run_id: 0bac97bcc878472e914cb58c2c5c396f
+run_name: sincere-conch-953
+run_uuid: 0bac97bcc878472e914cb58c2c5c396f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748753887255
+status: 3
+tags: []
+user_id: ajusd

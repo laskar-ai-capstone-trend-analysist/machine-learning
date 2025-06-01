@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748754165039
+current_stage: None
+description: ''
+last_updated_timestamp: 1748754165039
+name: sentiment
+run_id: aee59aea47334141b76636a9b5d780ee
+run_link: ''
+source: mlflow-artifacts:/179387764467183772/aee59aea47334141b76636a9b5d780ee/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/179387764467183772/aee59aea47334141b76636a9b5d780ee/artifacts/model
+user_id: null
+version: 2

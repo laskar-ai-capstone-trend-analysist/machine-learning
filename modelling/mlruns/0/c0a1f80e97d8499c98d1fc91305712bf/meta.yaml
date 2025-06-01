@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c0a1f80e97d8499c98d1fc91305712bf/artifacts
+end_time: 1748675770948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a1f80e97d8499c98d1fc91305712bf
+run_name: bright-perch-148
+run_uuid: c0a1f80e97d8499c98d1fc91305712bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748675735171
+status: 3
+tags: []
+user_id: ajusd

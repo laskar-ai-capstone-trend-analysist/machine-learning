@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/927eb8b79d7547e2b5718d3fd0386c73/artifacts
+deleted_time: 1748743330425
+end_time: 1748708218380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 927eb8b79d7547e2b5718d3fd0386c73
+run_name: silent-smelt-534
+run_uuid: 927eb8b79d7547e2b5718d3fd0386c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748708176935
+status: 3
+tags: []
+user_id: ajusd

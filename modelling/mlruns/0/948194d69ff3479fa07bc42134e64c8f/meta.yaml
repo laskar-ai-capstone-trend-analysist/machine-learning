@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/948194d69ff3479fa07bc42134e64c8f/artifacts
+deleted_time: 1748743347712
+end_time: 1748705213143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 948194d69ff3479fa07bc42134e64c8f
+run_name: angry-ant-932
+run_uuid: 948194d69ff3479fa07bc42134e64c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705205629
+status: 4
+tags: []
+user_id: ajusd

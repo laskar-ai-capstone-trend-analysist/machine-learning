@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179387764467183772/5e109e81a5ee43d0a83f3a3312e25c08/artifacts
+end_time: 1748752455062
+entry_point_name: ''
+experiment_id: '179387764467183772'
+lifecycle_stage: active
+run_id: 5e109e81a5ee43d0a83f3a3312e25c08
+run_name: fearless-swan-53
+run_uuid: 5e109e81a5ee43d0a83f3a3312e25c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748752412724
+status: 3
+tags: []
+user_id: ajusd

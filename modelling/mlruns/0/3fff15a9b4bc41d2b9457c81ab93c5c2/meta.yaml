@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3fff15a9b4bc41d2b9457c81ab93c5c2/artifacts
+deleted_time: 1748680352274
+end_time: 1748680132157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fff15a9b4bc41d2b9457c81ab93c5c2
+run_name: colorful-newt-325
+run_uuid: 3fff15a9b4bc41d2b9457c81ab93c5c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748680031811
+status: 3
+tags: []
+user_id: ajusd

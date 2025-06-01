@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8ed630ee1d55425a8b4bd991c0fbeeee/artifacts
+deleted_time: 1748680352274
+end_time: 1748680126215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8ed630ee1d55425a8b4bd991c0fbeeee
+run_name: kindly-calf-382
+run_uuid: 8ed630ee1d55425a8b4bd991c0fbeeee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748680073202
+status: 3
+tags: []
+user_id: ajusd

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/538e66c9e53b427d9527ccc629a7eadf/artifacts
+deleted_time: 1748680352274
+end_time: 1748680120220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 538e66c9e53b427d9527ccc629a7eadf
+run_name: whimsical-duck-536
+run_uuid: 538e66c9e53b427d9527ccc629a7eadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748680111588
+status: 4
+tags: []
+user_id: ajusd

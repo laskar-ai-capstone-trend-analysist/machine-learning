@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bd58ef6f9d9d425a8e10363bc9cb51ef/artifacts
+deleted_time: 1748743330425
+end_time: 1748708218399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bd58ef6f9d9d425a8e10363bc9cb51ef
+run_name: painted-bee-649
+run_uuid: bd58ef6f9d9d425a8e10363bc9cb51ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748708176856
+status: 3
+tags: []
+user_id: ajusd

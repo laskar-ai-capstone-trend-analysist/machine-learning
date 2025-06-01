@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b95fea1f6ba247108c958957af0ccc6a/artifacts
+deleted_time: 1748667659869
+end_time: 1748665160061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b95fea1f6ba247108c958957af0ccc6a
+run_name: peaceful-colt-376
+run_uuid: b95fea1f6ba247108c958957af0ccc6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748665100491
+status: 3
+tags: []
+user_id: ajusd

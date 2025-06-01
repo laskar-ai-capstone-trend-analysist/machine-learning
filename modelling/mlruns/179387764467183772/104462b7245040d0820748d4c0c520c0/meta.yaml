@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179387764467183772/104462b7245040d0820748d4c0c520c0/artifacts
+end_time: 1748752553716
+entry_point_name: ''
+experiment_id: '179387764467183772'
+lifecycle_stage: active
+run_id: 104462b7245040d0820748d4c0c520c0
+run_name: respected-cow-276
+run_uuid: 104462b7245040d0820748d4c0c520c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748752506143
+status: 3
+tags: []
+user_id: ajusd

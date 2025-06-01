@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5adc74a2825d455fa1bf26cf21ca44fe/artifacts
+deleted_time: 1748743347712
+end_time: 1748705218789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5adc74a2825d455fa1bf26cf21ca44fe
+run_name: nervous-sponge-916
+run_uuid: 5adc74a2825d455fa1bf26cf21ca44fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705174454
+status: 3
+tags: []
+user_id: ajusd

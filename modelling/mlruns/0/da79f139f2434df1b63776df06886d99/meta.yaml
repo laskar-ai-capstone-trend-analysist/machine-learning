@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/da79f139f2434df1b63776df06886d99/artifacts
+deleted_time: 1748743330432
+end_time: 1748705219066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: da79f139f2434df1b63776df06886d99
+run_name: resilient-wolf-300
+run_uuid: da79f139f2434df1b63776df06886d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705174383
+status: 3
+tags: []
+user_id: ajusd

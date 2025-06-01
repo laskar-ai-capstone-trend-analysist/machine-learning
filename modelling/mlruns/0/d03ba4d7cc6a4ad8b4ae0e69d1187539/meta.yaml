@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d03ba4d7cc6a4ad8b4ae0e69d1187539/artifacts
+deleted_time: 1748743330432
+end_time: 1748705225840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d03ba4d7cc6a4ad8b4ae0e69d1187539
+run_name: bright-fawn-222
+run_uuid: d03ba4d7cc6a4ad8b4ae0e69d1187539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748705138794
+status: 3
+tags: []
+user_id: ajusd

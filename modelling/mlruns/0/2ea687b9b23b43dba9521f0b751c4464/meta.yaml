@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2ea687b9b23b43dba9521f0b751c4464/artifacts
+deleted_time: 1748667659870
+end_time: 1748665038606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2ea687b9b23b43dba9521f0b751c4464
+run_name: burly-ray-576
+run_uuid: 2ea687b9b23b43dba9521f0b751c4464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748664984048
+status: 3
+tags: []
+user_id: ajusd

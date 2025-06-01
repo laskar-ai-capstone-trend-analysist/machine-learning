@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9c3ab7dba6a345f496d026ec58a52673/artifacts
+deleted_time: 1748667659871
+end_time: 1748664880917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9c3ab7dba6a345f496d026ec58a52673
+run_name: bold-croc-602
+run_uuid: 9c3ab7dba6a345f496d026ec58a52673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748664841541
+status: 3
+tags: []
+user_id: ajusd

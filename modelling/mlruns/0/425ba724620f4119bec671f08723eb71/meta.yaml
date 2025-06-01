@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/425ba724620f4119bec671f08723eb71/artifacts
+deleted_time: 1748703839751
+end_time: 1748703564728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 425ba724620f4119bec671f08723eb71
+run_name: adorable-donkey-717
+run_uuid: 425ba724620f4119bec671f08723eb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748703557290
+status: 3
+tags: []
+user_id: ajusd

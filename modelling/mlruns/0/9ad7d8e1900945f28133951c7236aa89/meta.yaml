@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9ad7d8e1900945f28133951c7236aa89/artifacts
+deleted_time: 1748667659879
+end_time: 1748664750016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9ad7d8e1900945f28133951c7236aa89
+run_name: valuable-elk-308
+run_uuid: 9ad7d8e1900945f28133951c7236aa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748664747721
+status: 4
+tags: []
+user_id: ajusd

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e958fc4ed8b9429984921c68592847ba/artifacts
+deleted_time: 1748743330439
+end_time: 1748677518259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e958fc4ed8b9429984921c68592847ba
+run_name: lyrical-grub-70
+run_uuid: e958fc4ed8b9429984921c68592847ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748677483435
+status: 4
+tags: []
+user_id: ajusd

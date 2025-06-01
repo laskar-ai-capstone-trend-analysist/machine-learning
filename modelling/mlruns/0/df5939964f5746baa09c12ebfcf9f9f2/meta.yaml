@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/df5939964f5746baa09c12ebfcf9f9f2/artifacts
+deleted_time: 1748743330423
+end_time: 1748708475383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: df5939964f5746baa09c12ebfcf9f9f2
+run_name: powerful-grub-624
+run_uuid: df5939964f5746baa09c12ebfcf9f9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748708438531
+status: 3
+tags: []
+user_id: ajusd

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dbf5ebfa154a470d906c2093b09b682f/artifacts
+deleted_time: 1748704379704
+end_time: 1748703315732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dbf5ebfa154a470d906c2093b09b682f
+run_name: dashing-goat-99
+run_uuid: dbf5ebfa154a470d906c2093b09b682f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748703269691
+status: 3
+tags: []
+user_id: ajusd
