@@ -48,7 +48,7 @@ combined_df = pd.concat(all_dfs.values(), ignore_index=True)
 text_pad, tokenizer = data_prep(combined_df, vocab_size, maxlen)
 
 # Load the model
-loaded_model = load_model("sentiment_model.keras")
+loaded_model = load_model("sentiment_model_v2.keras")
 
 loaded_model.summary()
 
@@ -71,7 +71,7 @@ print(f"Text: {text_testing1}")
 print(f"Predicted label index: {predicted_class}")
 
 ### TESTING 2
-text_testing2 = 'barang bagus sekali bagus banget bagus banget, ga fake'
+text_testing2 = 'barang bagus banget'
 text_testing2 = preprocess_text(text_testing2)
 
 # Convert to sequence using the same tokenizer

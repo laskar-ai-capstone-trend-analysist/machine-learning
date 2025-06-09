@@ -258,6 +258,7 @@ slang_dict['idiot'] = 'goblok'
 slang_dict['trun'] = 'turun'
 
 slang_dict['brg'] = 'barang'
+slang_dict['brng'] = 'barang'
 slang_dict['brang'] = 'barang'
 slang_dict['barng'] = 'barang'
 

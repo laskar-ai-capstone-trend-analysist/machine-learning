@@ -2,8 +2,8 @@ dataset:
   version: 2
 
 tokenizer:
-  maxlen: 100
-  vocab_size: 6000
+  maxlen: 50
+  vocab_size: 2000
   
 model:
   num_transformer_blocks: 1
